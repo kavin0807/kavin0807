@@ -30,10 +30,21 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Leetcode&logo=leetcode&label=&color=0C0C0C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="leetcode logo"  />
-  <img src="https://img.shields.io/static/v1?message=Codechef&logo=codechef&label=&color=5D3F6B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codechef logo"  />
+  <a href="https://www.linkedin.com/in/kavin-prabhu-m/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+  <a href="mailto:kavinprabhu@example.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
+  <a href="https://leetcode.com/u/kavinprabhu1517/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Leetcode&logo=leetcode&label=&color=0C0C0C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="leetcode logo" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/user_cd8j6lxa4x3/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GeeksforGeeks&logo=geeksforgeeks&label=&color=0F9D58&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="geeksforgeeks logo" />
+  </a>
+  <a href="https://www.codechef.com/users/l322" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Codechef&logo=codechef&label=&color=5D3F6B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codechef logo" />
+  </a>
 </div>
 
 ###
